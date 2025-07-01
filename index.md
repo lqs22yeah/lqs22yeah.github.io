@@ -1,6 +1,5 @@
 # Qiushi Lin | 林秋实
 
-📞 Tel: +86 17310110081  
 📧 Email: lqs22@mails.tsinghua.edu.cn  
 🏠 Address: Tsinghua University, Haidian District, Beijing, 100084, China
 
