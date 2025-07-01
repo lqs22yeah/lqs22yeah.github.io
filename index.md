@@ -61,7 +61,7 @@ _2022–2026 (Expected)_
 ## 📚 Publications
 
 ### In Preparation  
-- **Qiushi Lin\***, Yiwei Zhao\*, Hongbo Kang, Charles McGuffey, Phillip Gibbons.  
+- **Yiwei Zhao\***, Qiushi Lin\*, Hongbo Kang, Charles McGuffey, Phillip Gibbons.  
   *(Under submission, title withheld for anonymity)*
 
 ### Full Publications  
