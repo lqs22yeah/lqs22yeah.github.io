@@ -70,6 +70,9 @@ _2022–2026 (Expected)_
 
 - **Deep Neural Network Inference Partitioning in Embedded Analog-Digital Hybrid Systems**  
   *ISQED 2025* — Fabian Kreß, Julian Hoefer, **Qiushi Lin**, et al.
+  
+- **How Do Errors Impact NN Accuracy on Non-Ideal Analog PIM? Fast Evaluation via an Error-Injected Robustness Metric**
+  *ICCAD 2025* — Lidong Guo, Zhenhua Zhu, **Qiushi Lin**, et al.
 
 ---
 
