@@ -9,25 +9,25 @@
 
 main:
   - title: "Publications"
-    url: /publications/
+    url: https://lqs22yeah.github.io/
 
   - title: "Talks"
-    url: /talks/    
+    url: https://lqs22yeah.github.io/   
 
   - title: "Teaching"
-    url: /teaching/    
+    url: https://lqs22yeah.github.io/    
     
   - title: "Portfolio"
-    url: /portfolio/
+    url: https://lqs22yeah.github.io/
         
   - title: "Blog Posts"
-    url: /year-archive/
+    url: https://lqs22yeah.github.io/
     
   - title: "CV"
-    url: /cv/
+    url: https://lqs22yeah.github.io/
     
   # - title: "CV"
   #   url: /cv-json/
     
   - title: "Guide"
-    url: /markdown/
+    url: https://lqs22yeah.github.io/
