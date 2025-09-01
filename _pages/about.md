@@ -1,3 +1,12 @@
+---
+permalink: /
+title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 # Qiushi Lin | 林秋实
 
 📧 Email: lqs22@mails.tsinghua.edu.cn  
@@ -88,3 +97,4 @@ _2022–2026 (Expected)_
 ---
 
 _This page is hosted via GitHub Pages_  
+
