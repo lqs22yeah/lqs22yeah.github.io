@@ -58,6 +58,13 @@
   img {
     width: 100%;
   }
+  .sidebar .author__avatar img {
+    width: 150px !important;  /* 覆盖 .sidebar img 的 width:100% */
+    height: 150px;            /* 宽高相等才能圆 */
+    object-fit: cover;        /* 居中裁切，避免变形 */
+    border-radius: 50%;
+    display: block;           /* 去掉基线空白，布局更稳 */
+  }
 }
 
 .sidebar__right {
