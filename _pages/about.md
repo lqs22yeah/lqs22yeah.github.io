@@ -1,13 +1,12 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome to my personal website!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-# Qiushi Lin | 林秋实
 
 📧 Email: lqs22@mails.tsinghua.edu.cn  
 🏠 Address: Tsinghua University, Haidian District, Beijing, 100084, China
