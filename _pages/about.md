@@ -114,8 +114,61 @@ Research Interests
 }
 </style>
 
+
+<h2 style="font-family:Times New Roman, serif; font-weight:600; border-bottom:none; padding-bottom:4px;">
+News
+</h2>
+
+<style>
+/* News list style */
+.news-list {
+  list-style: none;
+  padding-left: 0;
+  margin: 0;
+}
+.news-item {
+  display: grid;
+  grid-template-columns: 120px 1fr; /* left date, right content */
+  gap: 12px;
+  padding: 8px 0;
+  border-bottom: 1px dashed #ddd;
+}
+.news-date {
+  color: #555;
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+  font-size: 14px;
+}
+.news-text {
+  font-size: 15px;
+}
+.news-text a { text-decoration: none; border-bottom: 1px solid #ccc; }
+.news-text a:hover { border-bottom-color: #999; }
+
+/* Mobile responsive: stack */
+@media (max-width: 640px) {
+  .news-item { grid-template-columns: 1fr; }
+  .news-date { margin-bottom: 4px; }
+}
+</style>
+
+<ul class="news-list">
+  <li class="news-item">
+    <div class="news-date">2025-09</div>
+    <div class="news-text">Two papers accepted to <strong>DAC 2025</strong> and <strong>ISQED 2025</strong>. Camera-ready in progress.</div>
+  </li>
+  <li class="news-item">
+    <div class="news-date">2025-08</div>
+    <div class="news-text">Started research internship at <a href="https://www.pdl.cmu.edu/index.shtml" target="_blank" rel="noopener">Parallel Data Lab, CMU</a>.</div>
+  </li>
+  <li class="news-item">
+    <div class="news-date">2025-07</div>
+    <div class="news-text">Our heterogeneous PIM-NoC work entered final evaluation stage at Tsinghua.</div>
+  </li>
+</ul>
+
 <!-- ===== Publications HTML (paste where you want it to appear) ===== -->
-<h2 class="section-title">Publications</h2>
+<h2 style="font-family:Times New Roman, serif; font-weight:600; border-bottom:none; padding-bottom:4px;">Publications</h2>
 
 <div class="pubs-grid">
 
