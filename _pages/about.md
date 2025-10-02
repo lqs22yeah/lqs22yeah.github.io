@@ -15,26 +15,15 @@ I am currently a fourth-year undergraduate student in the Department of Electron
 
 ---
 
-## 🎯 Research Interests
+<h2 style="font-family:Georgia, serif; font-weight:600; border-bottom:2px solid #333; padding-bottom:4px;">
+Research Interests
+</h2>
 
+- Computer Architecture & Computer System
 - Parallel & Distributed Computing  
-- Algorithms & System Engineering in Databases & MLsys  
+- Algorithms & System Engineering  
 - Heterogeneous-Memory Systems & Processing-in-Memory  
-- Software-Hardware Co-design  
-
----
-
-## 🎓 Education
-
-**Tsinghua University**, Beijing, China  
-*B.E. in Electronics Science and Technology, Department of Electronic Engineering*  
-_2022–2026 (Expected)_  
-- GPA: **3.86/4.0**, Top 10% (Ranked 1st in last semester)  
-- Scholarships & Awards:
-  - Comprehensive Scholarships (Top 5%, 2023 & 2024)  
-  - 4th place in 2024 Department Innovation Project Evaluation (1st among juniors)  
-  - 3rd prize in Tsinghua Hardware Design Competition  
-  - 3rd prize in Tsinghua Software Design Competition  
+- Cloud Computing  
 
 ---
 
