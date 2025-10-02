@@ -8,8 +8,10 @@ redirect_from:
 ---
 
 
-📧 Email: lqs22@mails.tsinghua.edu.cn  
-🏠 Address: Tsinghua University, Haidian District, Beijing, 100084, China
+## 👤 BIO
+
+I am currently a fourth-year undergraduate student in the Department of Electronic Engineering at Tsinghua University. I began my research journey at NICSEFC under the supervision of Prof. Yu Wang and Dr. Zhenhua Zhu. At present, I am also a research intern at the Parallel Data Lab, Carnegie Mellon University, working with Prof. Phillip Gibbons and collaborating closely with Prof. Guy Blelloch. 
+
 
 ---
 
