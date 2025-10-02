@@ -155,15 +155,15 @@ News
 <ul class="news-list">
   <li class="news-item">
     <div class="news-date">July '25</div>
-    <div class="news-text">NIPA is accepted to <strong>ICCAD 2025</strong>! </div>
+    <div class="news-text">NIPA is accepted to <strong>ICCAD 2025</strong> ! </div>
   </li>
   <li class="news-item">
     <div class="news-date">Feburary '25</div>
-    <div class="news-text">HPIM-NoC is accepted to <strong>DAC 2025</strong>!</div>
+    <div class="news-text">HPIM-NoC is accepted to <strong>DAC 2025</strong> !</div>
   </li>
   <li class="news-item">
     <div class="news-date">Feburary '25</div>
-    <div class="news-text">DNNPart is accepted to <strong>ISQED 2025</strong>!</div>
+    <div class="news-text">DNNPart is accepted to <strong>ISQED 2025</strong> !</div>
   </li>
   <li class="news-item">
     <div class="news-date">November '24</div>
