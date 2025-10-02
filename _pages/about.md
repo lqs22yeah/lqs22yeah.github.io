@@ -37,7 +37,7 @@ Publications
 
   <!-- DAC 2025 -->
   <article class="pub-card">
-    <img class="pub-thumb" src="/assets/papers/hpim-noc-thumb.png" alt="HPIM-NoC thumbnail">
+    <img class="pub-thumb" src="/assets/papers/DAC2025.png" alt="HPIM-NoC thumbnail">
     <div>
       <div class="pub-venue">DAC 2025</div>
       <h3 class="pub-title">HPIM-NoC: A Priori-Knowledge-Based Optimization Framework for Heterogeneous PIM-Based NoC</h3>
