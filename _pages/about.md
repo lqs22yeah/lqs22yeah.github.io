@@ -154,17 +154,22 @@ News
 
 <ul class="news-list">
   <li class="news-item">
-    <div class="news-date">2025-09</div>
-    <div class="news-text">Two papers accepted to <strong>DAC 2025</strong> and <strong>ISQED 2025</strong>. Camera-ready in progress.</div>
+    <div class="news-date">July '25</div>
+    <div class="news-text">NIPA is accepted to <strong>ICCAD 2025</strong>! </div>
   </li>
   <li class="news-item">
-    <div class="news-date">2025-08</div>
+    <div class="news-date">Feburary '25</div>
+    <div class="news-text">HPIM-NoC is accepted to <strong>DAC 2025</strong>!</div>
+  </li>
+  <li class="news-item">
+    <div class="news-date">Feburary '25</div>
+    <div class="news-text">DNNPart is accepted to <strong>ISQED 2025</strong>!</div>
+  </li>
+  <li class="news-item">
+    <div class="news-date">November '24</div>
     <div class="news-text">Started research internship at <a href="https://www.pdl.cmu.edu/index.shtml" target="_blank" rel="noopener">Parallel Data Lab, CMU</a>.</div>
   </li>
-  <li class="news-item">
-    <div class="news-date">2025-07</div>
-    <div class="news-text">Our heterogeneous PIM-NoC work entered final evaluation stage at Tsinghua.</div>
-  </li>
+  
 </ul>
 
 <!-- ===== Publications HTML (paste where you want it to appear) ===== -->
@@ -247,5 +252,4 @@ News
 
 
 
-_This page is hosted via GitHub Pages_  
 
