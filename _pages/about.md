@@ -8,14 +8,16 @@ redirect_from:
 ---
 
 
-## 👤 BIO
+<h2 style="font-family:Times New Roman, serif; font-weight:600; border-bottom:none; padding-bottom:4px;">
+BIO
+</h2>
 
 I am currently a fourth-year undergraduate student in the Department of Electronic Engineering at Tsinghua University. I began my research journey at [NICSEFC](https://nicsefc.ee.tsinghua.edu.cn/) under the supervision of Prof. [Yu Wang](https://web.ee.tsinghua.edu.cn/wangyu) and Dr. [Zhenhua Zhu](https://nicsefc.ee.tsinghua.edu.cn/people/ZhenhuaZhu). At present, I am also a research intern at the [Parallel Data Lab](https://www.pdl.cmu.edu/index.shtml), Carnegie Mellon University, working with Prof. [Phillip Gibbons](https://www.cs.cmu.edu/~gibbons/) and collaborating closely with Prof. [Guy Blelloch](https://www.cs.cmu.edu/~guyb/). 
 
 
 ---
 
-<h2 style="font-family:Georgia, serif; font-weight:600; border-bottom:2px solid #333; padding-bottom:4px;">
+<h2 style="font-family:Times New Roman, serif; font-weight:600; border-bottom:none; padding-bottom:4px;">
 Research Interests
 </h2>
 
