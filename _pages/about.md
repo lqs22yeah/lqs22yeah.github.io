@@ -27,7 +27,9 @@ Research Interests
 - Heterogeneous-Memory Systems & Processing-in-Memory  
 - Cloud Computing  
 
+<p style="font-size:14px; color:#555; margin-top:6px;">
 I am always eager to explore new research directions and novel challenges.
+</p>
 ---
 
 <style>
