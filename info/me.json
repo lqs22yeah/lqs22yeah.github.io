@@ -6,7 +6,7 @@
             "show_in_html": true,
             "show_in_cv": false,
             "items": [
-                "I am currently a fourth-year undergraduate student in the Department of Electronic Engineering at Tsinghua University. I began my research journey at <a href=\"https://nicsefc.ee.tsinghua.edu.cn/\">NICSEFC</a> under the supervision of Prof. <a href=\"https://web.ee.tsinghua.edu.cn/wangyu\"><i>Yu Wang</i></a> and Dr. <a href=\"https://nicsefc.ee.tsinghua.edu.cn/people/ZhenhuaZhu\"><i>Zhenhua Zhu</i></a>. At present, I am also a research intern at the <a href=\"https://www.pdl.cmu.edu/index.shtml\">Parallel Data Lab</a>, Carnegie Mellon University, working with Prof. <a href=\"https://www.cs.cmu.edu/~gibbons/\"><i>Phillip Gibbons</i></a> and collaborating closely with Prof. <a href=\"https://www.cs.cmu.edu/~guyb/\"><i>Guy Blelloch</i></a>."
+                "I am currently a fourth-year undergraduate student in the Department of Electronic Engineering at Tsinghua University. I began my research journey at <a href=\"https://nicsefc.ee.tsinghua.edu.cn/\">NICSEFC</a> under the supervision of Prof. <a href=\"https://web.ee.tsinghua.edu.cn/wangyu\"><i>Yu Wang</i></a> and Dr. <a href=\"https://nicsefc.ee.tsinghua.edu.cn/people/ZhenhuaZhu\"><i>Zhenhua Zhu</i></a>. At present, I am also a research intern at the <a href=\"https://www.pdl.cmu.edu/index.shtml\">Parallel Data Lab</a>, Carnegie Mellon University, advised by Prof. <a href=\"https://www.cs.cmu.edu/~gibbons/\"><i>Phillip Gibbons</i></a> and collaborating closely with Prof. <a href=\"https://www.cs.cmu.edu/~guyb/\"><i>Guy Blelloch</i></a>."
             ]
         },
         {
@@ -123,62 +123,6 @@
                 {
                     "title": "Tsinghua University Comprehensive Scholarship (Top 8%)",
                     "years": "2023 - 2024"
-                }
-            ]
-        },
-        {
-            "title": "Intra- and Extracurricular Projects",
-            "format": "simple",
-            "show_in_html": false,
-            "show_in_cv": true,
-            "items": [
-                {
-                    "title": "Query execution engine for OLAP database systems",
-                    "years": "Spring 2024"
-                },
-                {
-                    "title": "Cache simulator for x64 binaries using pintool",
-                    "years": "Fall 2023"
-                },
-                {
-                    "title": "Linux kernel hacking to impelement custom scheduler, lock, and file system",
-                    "years": "Spring 2022"
-                },
-                {
-                    "title": "Compiler frontend for custom grammar rules using lex and yacc",
-                    "years": "Fall 2021"
-                },
-                {
-                    "title": "CNN accelerator that can process conv, fc, and maxpool using Verilog and FPGA",
-                    "years": "Fall 2021"
-                },
-                {
-                    "title": "CPU simulator for pipelined CPU with branch predictor and cache using Verilog",
-                    "years": "Spring 2019"
-                },
-                {
-                    "title": "IoT system on the car fender that alarms the driver of safety incidents",
-                    "years": "2019"
-                },
-                {
-                    "title": "IoT system in the billiards ball that evaluates the cueing accuracy",
-                    "years": "2018"
-                },
-                {
-                    "title": "3D territory game that adds 3D graphics to the given game logic",
-                    "years": "Spring 2018"
-                },
-                {
-                    "title": "Robotic car that follows the path and escape from the maze",
-                    "years": "Fall 2017"
-                },
-                {
-                    "title": "Robotic arm that mimics human arm movement",
-                    "years": "2017"
-                },
-                {
-                    "title": "Robotic arm using thermally-driven super-coiled-nylon artificial muscles",
-                    "years": "2015 - 2016"
                 }
             ]
         },
