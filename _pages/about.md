@@ -153,7 +153,7 @@ News
 <ul class="news-list">
   <li class="news-item">
     <div class="news-date">October '25</div>
-    <div class="news-text">Happy to present TD-Orch at <a href="https://www.csail.mit.edu/event/parallel-reading-group-efficient-and-scalable-distributed-task-data-orchestration-and-graph" target="_blank" rel="noopener">MIT Parallel Reading Group.</a>.</div>
+    <div class="news-text">Happy to present TD-Orch at <a href="https://www.csail.mit.edu/event/parallel-reading-group-efficient-and-scalable-distributed-task-data-orchestration-and-graph" target="_blank" rel="noopener">MIT Parallel Reading Group</a>.</div>
   </li>
   <li class="news-item">
     <div class="news-date">July '25</div>
