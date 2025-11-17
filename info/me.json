@@ -113,24 +113,16 @@
             "show_in_cv": true,
             "items": [
                 {
-                    "title": "Northrop Grumman Fellowship - Computer Science",
+                    "title": "Tsinghua University Comprehensive Scholarship (Top 2%)",
+                    "years": "2025 - 2026"
+                },
+                {
+                    "title": "Tsinghua University Comprehensive Scholarship (Top 5%)",
                     "years": "2024 - 2025"
                 },
                 {
-                    "title": "Overseas PhD Scholarship, Korea Foundation for Advanced Studies (KFAS)",
-                    "years": "2023 - 2028"
-                },
-                {
-                    "title": "The Presidential Science Scholarship, Korea Student Aid Foundation (KOSAF)",
-                    "years": "2017 - 2023"
-                },
-                {
-                    "title": "Gold Medal, International Physics Olympiad (IPhO)",
-                    "years": "2016"
-                },
-                {
-                    "title": "Silver Prize, Samsung Humantech Paper Award",
-                    "years": "2016"
+                    "title": "Tsinghua University Comprehensive Scholarship (Top 8%)",
+                    "years": "2023 - 2024"
                 }
             ]
         },
@@ -213,13 +205,13 @@
             "show_in_cv": true,
             "items": [
                 {
-                    "title": "C, C++, Python, CUDA, Verilog, Linux Kernel, SQL, PyTorch, ZSim"
+                    "title": "Programming: C/C++, Python, Java, Shell, MPI; Git; LaTeX"
                 },
                 {
-                    "title": "Computer Architecture and Simulation, GPUs, Machine Learning Systems, Memory Systems, Operating Systems, System Programming"
+                    "title": "Systems & Hardware: Verilog (HDL), Gem5, MNSIM, custom PIM simulators, hardware simulator development"
                 },
                 {
-                    "title": "Database Systems: Analytics, Transactions, Vector Indexes"
+                    "title": "ML & Tools: PyTorch, TensorFlow, CUDA, MATLAB, Mathematica; Languages: English (TOEFL 107), Chinese (native)"
                 }
             ]
         }
