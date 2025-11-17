@@ -183,18 +183,18 @@
             ]
         },
         {
-            "title": "Teaching Experience",
+            "title": "Talks",
             "format": "simple",
             "show_in_html": true,
             "show_in_cv": true,
             "items": [
                 {
-                    "title": "Teaching Assistant, 15-445 \"Intro Database Systems\", Carnegie Mellon University",
-                    "years": "Spring 2025"
+                    "title": "<a href=https://www.csail.mit.edu/event/parallel-reading-group-efficient-and-scalable-distributed-task-data-orchestration-and-graph>MIT Parallel Reading Group</a>", 
+                    "years": "October 2025"
                 },
                 {
-                    "title": "Teaching Assistant, \"Operating Systems\", Seoul National University",
-                    "years": "Spring 2023"
+                    "title": "<a href= https://nicsefc.ee.tsinghua.edu.cn/>NICSEFC</a>",
+                    "years": "September 2025"
                 }
             ]
         },
