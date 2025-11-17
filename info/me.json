@@ -12,7 +12,7 @@
         {
             "title": "Research Interests",
             "format": "paragraph",
-            "show_in_html": false,
+            "show_in_html": true,
             "show_in_cv": true,
             "items": [
                 "I am broadly interested in software–hardware co-design and algorithm–systems co-design. During my undergraduate research, I developed orchestration algorithms, programming systems, and compilers, and accelerated DNNs and LLMs on emerging hardware platforms, including Processing-in-Memory, Computing-in-Memory, and Distributed Memory systems. My work has focused on two key challenges: handling data movement and exploiting hardware parallelism.",
@@ -84,58 +84,26 @@
                 {
                     "organization": "Parallel Data Lab",
                     "organization_link": "https://pdl.cmu.edu/index.shtml",
-                    "organization2": "CMU Database Group",
-                    "organization2_link": "https://db.cs.cmu.edu/",
                     "location": "Pittsburgh, Pennsylvania",
+                    "years": "2024 - Present",
+                    "job_title": "Undergraduate Research Intern",
+                    "projects": [
+                        "TD-Orch: Scalable Load-Balancing for Distributed Systems with Applications to Graph Processing"
+                    ]
+                },
+                {
+                    "organization": "NICSEFC, Tsinghua University",
+                    "organization_link": "https://nicsefc.ee.tsinghua.edu.cn/",
+                    "location": "Beijing, China",
                     "years": "2023 - Present",
-                    "job_title": "Graduate Research Assistant",
+                    "job_title": "Undergraduate Research Intern",
                     "projects": [
-                        "OLTPim: Fast and efficient OLTP on Processing-in-Memory (VLDB 2025)"
-                    ]
-                },
-                {
-                    "organization": "Microsoft",
-                    "organization_link": "https://www.microsoft.com/en-us/research/",
-                    "location": "Redmond, Washington",
-                    "years": "Summer 2024, 2025",
-                    "job_title": "Research Intern",
-                    "projects": [
-                        "Analytic query processing on GPUs",
-                        "Vector index for GPUs"
-                    ]
-                },
-                {
-                    "organization": "FriendliAI",
-                    "organization_link": "https://friendli.ai/",
-                    "location": "Seoul, Korea",
-                    "years": "2022 - 2023",
-                    "job_title": "Research Intern",
-                    "projects": [
-                        "BPipe: Accelerating the training of LLMs by rebalancing memory utilizations (ICML 2023)",
-                        "Optimizing GPU kernels for training LLMs"
-                    ]
-                },
-                {
-                    "organization": "High Performance Computer System Lab",
-                    "organization_link": "https://hpcs.snu.ac.kr/",
-                    "location": "Seoul, Korea",
-                    "years": "2021",
-                    "job_title": "Undergraduate Thesis Project Student",
-                    "projects": [
-                        "GPUDiag: Modeling GPU microarchitecture using automated microbenchmarks",
-                        "Extending gem5-APU to support multiple GPUs"
-                    ]
-                },
-                {
-                    "organization": "Geolux",
-                    "organization_link": "https://www.geolux.co.kr/en/",
-                    "location": "Seoul, Korea",
-                    "years": "2017 - 2018",
-                    "job_title": "Software Engineering Intern",
-                    "projects": [
-                        "Training AI models to detect potholes from driveway videos"
+                        "NIPA",
+                        "HPIM-NoC",
+                        "DNNPartition"
                     ]
                 }
+                
             ]
         },
         {
