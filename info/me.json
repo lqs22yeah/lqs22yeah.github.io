@@ -26,29 +26,17 @@
             "show_in_cv": true,
             "items": [
                 {
-                    "organization": "Carnegie Mellon University",
-                    "organization_link": "https://csd.cmu.edu",
-                    "location": "Pittsburgh, Pennsylvania",
-                    "years": "2023 - Present",
-                    "job_title": "Ph.D. Student in Computer Science",
-                    "advisor": "Phillip B. Gibbons",
-                    "advisor_link": "https://www.cs.cmu.edu/~gibbons/",
-                    "workedwith": "Andrew Pavlo",
-                    "workedwith_link": "https://www.cs.cmu.edu/~pavlo/"
-                },
-                {
-                    "organization": "Seoul National University",
-                    "organization_link": "https://ee.snu.ac.kr/en",
-                    "location": "Seoul, Korea",
-                    "years": "2017 - 2023",
-                    "job_title": "B.S. in Electrical and Computer Engineering",
-                    "advisor": "Jangwoo Kim",
-                    "advisor_link": "https://hpcs.snu.ac.kr/~jangwoo/",
-                    "workedwith": "Byung-Gon Chun",
-                    "workedwith_link": "https://bgchun.github.io/",
+                    "organization": "Tsinghua University",
+                    "organization_link": "https://www.tsinghua.edu.cn/en/index.htm",
+                    "location": "Beijing, China",
+                    "years": "2022 - 2026(expected)",
+                    "job_title": "B.S. in Electronic Engineering",
+                    "advisor": "Yu Wang",
+                    "advisor_link": "https://web.ee.tsinghua.edu.cn/wangyu/en/index.htm",
+                    "workedwith": "Zhenhua Zhu",
+                    "workedwith_link": "https://nicsefc.ee.tsinghua.edu.cn/people/ZhenhuaZhu",
                     "details": [
-                        "GPA: 4.28/4.3 (2nd/148)",
-                        "{\\small The period includes two years of mandatory military service in South Korea.}"
+                        "GPA: 3.87/4.0 (Top 10%)"
                     ]
                 }
             ]
