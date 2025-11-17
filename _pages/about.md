@@ -20,12 +20,7 @@ I am currently a fourth-year undergraduate student in the Department of Electron
 <h2 style="font-family:Times New Roman, serif; font-weight:600; border-bottom:none; padding-bottom:4px;">
 Research Interests
 </h2>
-
-- Computer Architecture & Computer System
-- Parallel & Distributed Computing  
-- Algorithms & System Engineering  
-- Heterogeneous-Memory Systems & Processing-in-Memory  
-- Cloud Computing  
+I am broadly interested in software–hardware co-design and algorithm–systems co-design. During my undergraduate research, I developed orchestration algorithms, programming systems, and compilers, and accelerated DNNs and LLMs on emerging hardware platforms, including Processing-in-Memory, Computing-in-Memory, and Distributed Memory systems. My work has focused on two key challenges: handling data movement and exploiting hardware parallelism.
 
 <p style="font-size:20px; color:#555; margin-top:6px;">
 I am always eager to explore new research directions and novel challenges.
@@ -158,7 +153,7 @@ News
 <ul class="news-list">
   <li class="news-item">
     <div class="news-date">October '25</div>
-    <div class="news-text">Happy to present TD-Orch at <a href="https://www.csail.mit.edu/event/parallel-reading-group-efficient-and-scalable-distributed-task-data-orchestration-and-graph" target="_blank" rel="noopener">MIT Parallel Reading Group</a>.</div>
+    <div class="news-text">Happy to present TD-Orch at <a href="https://www.csail.mit.edu/event/parallel-reading-group-efficient-and-scalable-distributed-task-data-orchestration-and-graph" target="_blank" rel="noopener">MIT Parallel Reading Group.</a>.</div>
   </li>
   <li class="news-item">
     <div class="news-date">July '25</div>
