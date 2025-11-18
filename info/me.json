@@ -48,30 +48,37 @@
             "show_in_cv": true,
             "items": [
                 {
-                    "authors": "Hyoungjoo Kim, Yiwei Zhao, Andrew Pavlo, Phillip B. Gibbons",
-                    "pub_title": "No Cap, This Memory Slaps: Breaking Through the Memory Wall of Transactional Database Systems with Processing-in-Memory",
-                    "pub_link": "https://www.vldb.org/pvldb/vol18/p4241-kim.pdf",
-                    "journal": "Proceedings of the VLDB Endowment",
+                    "authors": "Qiushi Lin*, Yiwei Zhao*, Hongbo Kang, Guy E. Blelloch, Laxman Dhulipala, Charle McGuffey and Phillip B. Gibbons.",
+                    "pub_title": "TD-Orch: Scalable Load-Balancing for Distributed Systems with Applications to Graph Processing",
+                    "pub_link": "https://arxiv.org/abs/2511.11843",
+                    "journal": "Under Review at OSDI 2026",
+                    "year": "2026",
+                    "image": "info/pics/TD-Orch.png"
+                },
+                {
+                    "authors": "Lidong Guo, Zhenhua Zhu+, Qiushi Lin, Yuan Xie, Huazhong Yang, Wangyang Fu+, and Yu Wang+",
+                    "pub_title": "How Do Errors Impact NN Accuracy on Non-Ideal Analog PIM? Fast Evaluation via an Error-Injected Robustness Metric",
+                    "pub_link": "https://nicsefc.ee.tsinghua.edu.cn/nics_file/pdf/ad81b36e-96d6-4a96-885e-24c6c0f8a739.pdf",
+                    "journal": "International Conference on Computer-Aided Design (ICCAD)",
                     "year": "2025",
-                    "slides": "https://github.com/hyoungjook/OLTPim/blob/master/pdfs/slides.pdf",
-                    "poster": "https://github.com/hyoungjook/OLTPim/blob/master/pdfs/poster.pdf",
-                    "blog": "https://www.cs.cmu.edu/~csd-phd-blog/2025/breaking-transaction-pim/"
+                    "image": "info/pics/ICCAD2025.png",
+                    "slides":"https://nicsefc.ee.tsinghua.edu.cn/%2Fnics_file%2Fpdf%2F4185ec9a-4c35-459b-a281-b074b5252814.pdf"
+                },
+                 {
+                    "authors": "Shuai Yuan, Angxin Cai, Qiushi Lin, Guoxing Wang, Yu Wang, Zhenhua Zhu, Yanan Sun",
+                    "pub_title": "HPIM-NoC: A Priori-Knowledge-Based Optimization Framework for Heterogeneous PIM-Based NoC",
+                    "pub_link": "https://ieeexplore.ieee.org/abstract/document/11132638",
+                    "journal": "Design Automation Conference (DAC)",
+                    "year": "2025",
+                    "image": "info/pics/DAC2025.png"
                 },
                 {
-                    "authors": "Taebum Kim, Hyoungjoo Kim, Gyeong-In Yu, Byung-Gon Chun",
-                    "pub_title": "BPipe: Memory-Balanced Pipeline Parallelism for Training Large Language Models",
-                    "pub_link": "https://proceedings.mlr.press/v202/kim23l/kim23l.pdf",
-                    "journal": "International Conference on Machine Learning (ICML)",
-                    "year": "2023",
-                    "etc": "Oral Presentation"
-                },
-                {
-                    "authors": "Hyoungjoo Kim",
-                    "pub_title": "Modeling the GPU Instruction Scheduling Performance using Microbenchmarks",
-                    "pub_link": "https://github.com/hyoungjook/gpudiag/blob/master/documents/paper.pdf",
-                    "journal": "Bachelor's Thesis, Seoul National University",
-                    "year": "2023",
-                    "etc": "Advised by Jangwoo Kim"
+                    "authors": "Fabian Kreß, Julian Hoefer, Qiushi Lin, Patrick Schmidt, Zhenhua Zhu, Yu Zhu, Tanja Harbaum, Yu Wang, Jurgen Becker",
+                    "pub_title": "Deep Neural Network Inference Partitioning in Embedded Analog-Digital Hybrid Systems",
+                    "pub_link": "https://ieeexplore.ieee.org/abstract/document/11014471",
+                    "journal": "International Symposium on Quality Electronic Design (ISQED)",
+                    "year": "2025",
+                    "image": "info/pics/ISQED2025.png"
                 }
             ]
         },
