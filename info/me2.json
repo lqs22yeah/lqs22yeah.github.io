@@ -134,6 +134,12 @@
                         "photo": "info/pics/cat3.jpg",
                         "group": "cat",
                         "about1": "Whose cat? So cute!"
+                    },
+                    {
+                        "category": "Others",
+                        "photo": "info/pics/cat4.jpg",
+                        "group": "cat",
+                        "about1": "Whose cat? So cute!"
                     }
                 ]
         }
