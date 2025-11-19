@@ -116,6 +116,24 @@
                         "photo": "info/pics/Art3.jpg",
                         "group": "Art",
                         "about1": "Stage, Honor, and Sunshine"
+                    },
+                    {
+                        "category": "Others",
+                        "photo": "info/pics/cat1.jpg",
+                        "group": "cat",
+                        "about1": "Whose cat? So cute!"
+                    },
+                    {
+                        "category": "Others",
+                        "photo": "info/pics/cat2.jpg",
+                        "group": "cat",
+                        "about1": "Whose cat? So cute!"
+                    },
+                    {
+                        "category": "Others",
+                        "photo": "info/pics/cat3.jpg",
+                        "group": "cat",
+                        "about1": "Whose cat? So cute!"
                     }
                 ]
         }
