@@ -51,7 +51,7 @@
                     "authors": "Qiushi Lin*, Yiwei Zhao*, Hongbo Kang, Guy E. Blelloch, Laxman Dhulipala, Charle McGuffey and Phillip B. Gibbons.",
                     "pub_title": "TD-Orch: Scalable Load-Balancing for Distributed Systems with Applications to Graph Processing",
                     "pub_link": "https://arxiv.org/abs/2511.11843",
-                    "journal": "Under Review at OSDI 2026",
+                    "journal": "Under Review at OSDI",
                     "year": "2026",
                     "image": "info/pics/TD-Orch.png"
                 },
