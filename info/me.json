@@ -56,6 +56,14 @@
                     "image": "info/pics/TD-Orch.png"
                 },
                 {
+                    "authors": "Qiushi Lin*, Zhenhua Zhu*, Tongxin Xie, Yiwei Zhao, Guy E. Blelloch, Phillip B. Gibbons, Guohao Dai, Mingyu Gao, Yuan Xie and Yu Wang.",
+                    "pub_title": "Breaking the Memory Wall: A Survey of DRAM-based Processing-In-Memory Architectures and Systems",
+                    "pub_link": "https://lqs22yeah.github.io/DRAM-based-PIM-Survey/Breaking_the_Memory_Wall_A_Survey_of_DRAM-based_Processing-In-Memory_Architectures_and_Systems.pdf",
+                    "journal": "Under Review at CSUR",
+                    "year": "2026",
+                    "image": "info/pics/CSUR.png"
+                },
+                {
                     "authors": "Lidong Guo, Zhenhua Zhu+, Qiushi Lin, Yuan Xie, Huazhong Yang, Wangyang Fu+, and Yu Wang+",
                     "pub_title": "How Do Errors Impact NN Accuracy on Non-Ideal Analog PIM? Fast Evaluation via an Error-Injected Robustness Metric",
                     "pub_link": "https://nicsefc.ee.tsinghua.edu.cn/nics_file/pdf/ad81b36e-96d6-4a96-885e-24c6c0f8a739.pdf",
