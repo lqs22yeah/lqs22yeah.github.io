@@ -16,31 +16,31 @@
             "show_in_cv": false,
             "items": [
                     {
-                        "category": "Sports",
+                        "category": "Boards",
                         "group": "basketball",
                         "photo": "info/pics/bas1.jpg",
                         "about1": "Basketball"
                     },
                     {
-                        "category": "Sports",
+                        "category": "Boards",
                         "group": "basketball",
                         "photo": "info/pics/bas2.jpg",
                         "about1": "Basketball"
                     },
                     {
-                        "category": "Sports",
+                        "category": "Boards",
                         "group": "Go",
                         "photo": "info/pics/Go1.jpg",
                         "about1": "Learning Go, Before AlphaGo:)"
                     },
                     {
-                        "category": "Sports",
+                        "category": "Boards",
                         "group": "Go",
                         "photo": "info/pics/Go2.jpg",
                         "about1": "Learning Go, Before AlphaGo:)"
                     },
                     {
-                        "category": "Sports",
+                        "category": "Boards",
                         "group": "Go",
                         "photo": "info/pics/Go3.jpg",
                         "about1": "Learning Go, Before AlphaGo:)"
@@ -102,44 +102,45 @@
                     {
                         "category": "Others",
                         "photo": "info/pics/Art1.jpg",
+                        "show_in_html": false,
                         "group": "Art",
                         "about1": "Stage, Honor, and Sunshine"
                     },
                     {
                         "category": "Others",
                         "photo": "info/pics/Art2.jpg",
+                        "show_in_html": false,
                         "group": "Art",
                         "about1": "Stage, Honor, and Sunshine"
                     },
                     {
                         "category": "Others",
                         "photo": "info/pics/Art3.jpg",
+                        "show_in_html": false,
                         "group": "Art",
                         "about1": "Stage, Honor, and Sunshine"
                     },
                     {
                         "category": "Others",
                         "photo": "info/pics/cat1.jpg",
+                        "show_in_html": false,
                         "group": "cat",
                         "about1": "Whose cat? So cute!"
                     },
                     {
-                        "category": "Others",
+                        "category": "Whose cat? So cute!",
                         "photo": "info/pics/cat2.jpg",
-                        "group": "cat",
-                        "about1": "Whose cat? So cute!"
+                        "group": "cat"
                     },
                     {
-                        "category": "Others",
+                        "category": "Whose cat? So cute!",
                         "photo": "info/pics/cat3.jpg",
-                        "group": "cat",
-                        "about1": "Whose cat? So cute!"
+                        "group": "cat"
                     },
                     {
-                        "category": "Others",
+                        "category": "Whose cat? So cute!",
                         "photo": "info/pics/cat4.jpg",
-                        "group": "cat",
-                        "about1": "Whose cat? So cute!"
+                        "group": "cat"
                     }
                 ]
         }

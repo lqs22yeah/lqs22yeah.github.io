@@ -489,6 +489,8 @@
             // 1. 按 category 分组
             const groups = {};
             items.forEach(item => {
+                // Preserve hidden photos in the data without rendering them.
+                if (item.show_in_html === false) return;
                 const cat = item.category || "Others";
                 if (!groups[cat]) {
                     groups[cat] = [];
@@ -497,7 +499,7 @@
             });
 
             // 2. 固定类别顺序（可根据你喜欢的顺序改）
-            const order = ["Friends", "Sports", "Travel", "Others"];
+            const order = ["Friends", "Boards", "Travel", "Whose cat? So cute!"];
             const categories = Object.keys(groups).sort((a, b) => {
                 const ia = order.indexOf(a);
                 const ib = order.indexOf(b);
@@ -511,7 +513,7 @@
             categories.forEach(cat => {
                 const photos = groups[cat];
 
-                // 小标题：Basketball / Travel / Friends / Others
+                // Render the category heading.
                 const catTitle = document.createElement('h3');
                 catTitle.textContent = cat;
                 catTitle.style.margin = "10px 20px 5px";
