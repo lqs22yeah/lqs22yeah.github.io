@@ -96,6 +96,14 @@
                     {
                         "category": "Friends",
                         "group": "All",
+                        "photo": "info/pics/friends-graduation.jpg",
+                        "photo_class": "album-photo--graduation",
+                        "alt": "Friends posing together in graduation gowns",
+                        "about1": "All of my life, I call it yesterday~"
+                    },
+                    {
+                        "category": "Friends",
+                        "group": "All",
                         "photo": "info/pics/life3.jpg",
                         "about1": "All of my life, I call it yesterday~"
                     },
@@ -121,11 +129,9 @@
                         "about1": "Stage, Honor, and Sunshine"
                     },
                     {
-                        "category": "Others",
+                        "category": "Whose cat? So cute!",
                         "photo": "info/pics/cat1.jpg",
-                        "show_in_html": false,
-                        "group": "cat",
-                        "about1": "Whose cat? So cute!"
+                        "group": "cat"
                     },
                     {
                         "category": "Whose cat? So cute!",
