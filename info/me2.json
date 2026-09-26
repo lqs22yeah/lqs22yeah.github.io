@@ -16,31 +16,31 @@
             "show_in_cv": false,
             "items": [
                     {
-                        "category": "Boards",
+                        "category": "Sports",
                         "group": "basketball",
                         "photo": "info/pics/bas1.jpg",
                         "about1": "Basketball"
                     },
                     {
-                        "category": "Boards",
+                        "category": "Sports",
                         "group": "basketball",
                         "photo": "info/pics/bas2.jpg",
                         "about1": "Basketball"
                     },
                     {
-                        "category": "Boards",
+                        "category": "Sports",
                         "group": "Go",
                         "photo": "info/pics/Go1.jpg",
                         "about1": "Learning Go, Before AlphaGo:)"
                     },
                     {
-                        "category": "Boards",
+                        "category": "Sports",
                         "group": "Go",
                         "photo": "info/pics/Go2.jpg",
                         "about1": "Learning Go, Before AlphaGo:)"
                     },
                     {
-                        "category": "Boards",
+                        "category": "Sports",
                         "group": "Go",
                         "photo": "info/pics/Go3.jpg",
                         "about1": "Learning Go, Before AlphaGo:)"
